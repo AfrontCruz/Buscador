@@ -75,10 +75,23 @@
     height: 150px;
 }
 .img-logo{
+    width: 100%;
     max-width: 500px;
 }
 .container-scroll-x{
     display: flex;
     flex-direction: row;
     overflow-x: scroll;
+}
+.card-user p{
+    font-weight: bold;
+    margin: 4px 0px;
+}
+.followers{
+    cursor: default;
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 15px;
+    background-color: var(--second);
+    color: var(--fourth);
 }

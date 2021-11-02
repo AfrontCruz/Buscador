@@ -9,6 +9,10 @@ class Request{
     }
 
     async exec() {
+        return await this.myFetch(HOST + this.url);
+    }
+
+    async myFetch(uri) {
         let myHeaders;
         let config;
         if( this.isAuth ){
@@ -26,21 +30,7 @@ class Request{
         else
             config = { method: this.method, headers: myHeaders, body: JSON.stringify( this.body ) }
 
-        let response = await fetch(HOST + this.url, config);
-        if( response.status === 401 )
-            window.location.href = "/";
-        return await response.json();
-    }
-
-    async upload(newName) {
-        let format = new FormData();
-        format.append("file", this.body);
-        format.append("newName", newName);
-        let configContrato = {
-            method: this.method,
-            body: format
-        }
-        let response = await fetch(HOST + this.url, configContrato);
+        let response = await fetch(uri, config);
         return await response.json();
     }
 }
