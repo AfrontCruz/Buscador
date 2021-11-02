@@ -1,0 +1,120 @@
+@font-face{
+    font-family: "MikadoBlackItalic";
+    src: url('../fonts/mikado/MikadoBlack-Italic.otf');
+}
+@font-face{
+    font-family: "MikadoBlack";
+    src: url('../fonts/mikado/MikadoBlack.otf');
+}
+@font-face{
+    font-family: "MikadoBold";
+    src: url('../fonts/mikado/MikadoBold.otf');
+}
+@font-face{
+    font-family: "MikadoBoldItalic";
+    src: url('../fonts/mikado/MikadoBold-Italic.otf');
+}
+@font-face{
+    font-family: "MikadoLight";
+    src: url('../fonts/mikado/MikadoLight.otf');
+}
+@font-face{
+    font-family: "MikadoLightItalic";
+    src: url('../fonts/mikado/MikadoLight-Italic.otf');
+}
+@font-face{
+    font-family: "MikadoMedium";
+    src: url('../fonts/mikado/MikadoMedium.otf');
+}
+@font-face{
+    font-family: "MikadoMediumItalic";
+    src: url('../fonts/mikado/MikadoMedium-Italic.otf');
+}
+@font-face{
+    font-family: "MikadoRegular";
+    src: url('../fonts/mikado/MikadoRegular.otf');
+}
+@font-face{
+    font-family: "MikadoRegularItalic";
+    src: url('../fonts/mikado/MikadoRegular-Italic.otf');
+}
+@font-face{
+    font-family: "MikadoUltra";
+    src: url('../fonts/mikado/MikadoUltra.otf');
+}
+@font-face{
+    font-family: "MikadoUltraItalic";
+    src: url('../fonts/mikado/MikadoUltra-Italic.otf');
+}
+@font-face {
+    font-family: "MonserratBlack";
+    src: url('../fonts/montserrat/Montserrat-Black.ttf');
+}
+@font-face {
+    font-family: "MonserratBlackItalic";
+    src: url('../fonts/montserrat/Montserrat-BlackItalic.ttf');
+}
+@font-face {
+    font-family: "MonserratBold";
+    src: url('../fonts/montserrat/Montserrat-Bold.ttf');
+}
+@font-face {
+    font-family: "MonserratBoldItalic";
+    src: url('../fonts/montserrat/Montserrat-BoldItalic.ttf');
+}
+@font-face {
+    font-family: "MonserratExtraBold";
+    src: url('../fonts/montserrat/Montserrat-ExtraBold.ttf');
+}
+@font-face {
+    font-family: "MonserratExtraBoldItalic";
+    src: url('../fonts/montserrat/Montserrat-ExtraBoldItalic.ttf');
+}
+@font-face {
+    font-family: "MonserratExtraLight";
+    src: url('../fonts/montserrat/Montserrat-ExtraLight.ttf');
+}
+@font-face {
+    font-family: "MonserratExtraLightItalic";
+    src: url('../fonts/montserrat/Montserrat-ExtraLightItalic.ttf');
+}
+@font-face {
+    font-family: "MonserratItalic";
+    src: url('../fonts/montserrat/Montserrat-Italic.ttf');
+}
+@font-face {
+    font-family: "MonserratLight";
+    src: url('../fonts/montserrat/Montserrat-Light.ttf');
+}
+@font-face {
+    font-family: "MonserratLightItalic";
+    src: url('../fonts/montserrat/Montserrat-LightItalic.ttf');
+}
+@font-face {
+    font-family: "MonserratMedium";
+    src: url('../fonts/montserrat/Montserrat-Medium.ttf');
+}
+@font-face {
+    font-family: "MonserratMediumItalic";
+    src: url('../fonts/montserrat/Montserrat-MediumItalic.ttf');
+}
+@font-face {
+    font-family: "MonserratRegular";
+    src: url('../fonts/montserrat/Montserrat-Regular.ttf');
+}
+@font-face {
+    font-family: "MonserratSemiBold";
+    src: url('../fonts/montserrat/Montserrat-SemiBold.ttf');
+}
+@font-face {
+    font-family: "MonserratSemiBoldItalic";
+    src: url('../fonts/montserrat/Montserrat-SemiBoldItalic.ttf');
+}
+@font-face {
+    font-family: "MonserratThin";
+    src: url('../fonts/montserrat/Montserrat-Thin.ttf');
+}
+@font-face {
+    font-family: "MonserratThinItalic";
+    src: url('../fonts/montserrat/Montserrat-ThinItalic.ttf');
+}

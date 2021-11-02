@@ -1,0 +1,29 @@
+
+.m-body, .m-body .modal-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: transparent !important;
+    box-shadow: none;
+}
+.m-body .spinner-border{
+    width: 100px;
+    color: #2b0542;
+    height: 100px;
+}
+.modal-content{
+    border: none!important;
+    border-radius: 25px!important;
+}
+.modal-body{
+    background-color: var(--fourth);
+    border-radius: 20px!important;
+}
+.modal-body button{
+    font-weight: bold;
+}
+.modal-title{
+    width: 100%;
+    text-align: center!important;
+    font-weight: bold;
+}
